@@ -1,2 +1,2 @@
-# Dating-App-Match-Success-Predictor
-This is the project for predicting dating success
+# dating-app-match-predictor
+Dating App Match Success Predictor
